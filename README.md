@@ -10,7 +10,7 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=prajyothraib&theme=nord&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <a href="https://user-badge.committers.top/india/prajyothraib">
+  <a href="https://leetcode.com/u/prajyoth2005/">
     <img src="https://user-badge.committers.top/india/prajyothraib.svg" alt="committers.top badge" />
   </a>
 </p>
