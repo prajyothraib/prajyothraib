@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=prajyothraib&theme=nord&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
-<a href="https://leetcode.com/u/prajyoth2005/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
+
 </p>
 
 ---
