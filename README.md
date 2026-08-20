@@ -47,5 +47,5 @@
 ## Contribution Activity
 
 <p align="center">
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajyothraib&theme=nord)
+  <img src="./profile-summary-card-output/profile-details.svg" alt="Profile Details" />
 </p>
