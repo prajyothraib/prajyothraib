@@ -47,5 +47,6 @@
 ## Contribution Activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/profile-details.svg" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajyothraib&theme=github_dark" alt="Profile Details" />
 </p>
+
